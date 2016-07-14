@@ -1,5 +1,5 @@
 {
-  "name": "textio-karma-jasmine-html-reporter",
+  "name": "karma-jasmine-textio-html-reporter",
   "version": "1.0.0",
   "description": "A Karma plugin. Dynamically displays tests results at debug.html page",
   "main": "./src/index.js",
