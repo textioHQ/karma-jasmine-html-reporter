@@ -1,5 +1,5 @@
 {
-  "name": "karma-jasmine-html-reporter",
+  "name": "textio-karma-jasmine-html-reporter",
   "version": "1.0.0",
   "description": "A Karma plugin. Dynamically displays tests results at debug.html page",
   "main": "./src/index.js",
@@ -9,7 +9,7 @@
     "html"
   ],
   "repository": {
-    "url": "https://github.com/taras42/karma-jasmine-html-reporter"
+    "url": "https://github.com/textioHQ/karma-jasmine-html-reporter"
   },
   "author": "",
   "dependencies": {
